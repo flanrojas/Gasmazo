@@ -219,7 +219,7 @@ while True:
         print("saliste")
         break
     else:
-        print("opcion invalida aweonao")
+        print("opcion invalida uwu")
 
         
         
